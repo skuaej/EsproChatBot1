@@ -14,4 +14,4 @@ MONGO_URL = getenv("MONGO_URL", "mongodb+srv://oliva:oliva123@cluster0.6cohqfv.m
 OWNER_ID = int(getenv("OWNER_ID", "7850114307"))
 SUPPORT_GRP = "EsproSupport"
 UPDATE_CHNL = "EsproUpdate"
-OWNER_USERNAME = "Ur_Haiwan"
+OWNER_USERNAME = "Hinatahubot"
